@@ -1,0 +1,11 @@
+{
+    "name": "interact-registry",
+    "commonName": "Bower Registry",
+    "license": "GPL-3",
+    "maintainers": [
+        {
+            "name": "oliver.foster",
+            "email": "oliver.foster@kineo.com"
+        }
+    ]
+}

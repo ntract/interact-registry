@@ -1,0 +1,12 @@
+{
+   "name": "interact-registry",
+   "version": "0.0.17",
+   "license": "GPL-3",
+   "interactRepository": "/home/oliverfoster/Working/pluginmanager/interact-registry-repo/",
+   "npm": {
+      "express": "^4.14.0",
+      "body-parser": "^1.15.0",
+      "multer": "^1.1.0",
+      "handlebars": "*"
+   }
+}
