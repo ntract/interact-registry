@@ -17,6 +17,8 @@ app.use(bodyParser.raw({
 
 events.once("modules:loaded", function() {
 
+	if (cli.config.commands[0] === "help") return;
+
 	console.log("Starting server...");
 
 	events.emit("interact-registry:loaded");
