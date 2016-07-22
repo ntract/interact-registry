@@ -24,7 +24,7 @@ events.once("modules:loaded", function() {
 
 	FileSystem.mkdir(path.join(cli.cwd, "data"));
 
-	require("./bower");
+	require("./lib/bower");
 
 			//setup server listener
 	app.listen(app.get('port'), function() {
