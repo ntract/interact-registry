@@ -1,5 +1,5 @@
 {
-   "name": "interact-registry",
+   "name": "ntract-registry",
    "license": "GPL-3",
    "npm": {
       "express": "^4.14.0",
@@ -8,7 +8,7 @@
       "handlebars": "*"
    },
    "dependencies": {
-        "interact-cli": "~0.0"
+        "ntract-cli": "~0.0"
    },
    "main": [
       "index.js"

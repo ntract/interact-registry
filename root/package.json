@@ -1,9 +1,9 @@
 {
-  "name": "interact-registry",
+  "name": "ntract-registry",
   "commonName": "Bower Registry",
   "version": "0.0.3",
   "license": "GPL-3",
-  "interact-cli": {
+  "ntract-cli": {
     "standalone": true
   },
   "maintainers": [
@@ -13,7 +13,7 @@
     }
   ],
   "bin": {
-  	"interact-registry": "./bin/interact-registry"
+  	"ntract-registry": "./bin/ntract-registry"
   },
   "dependencies":{
   	"express":"^4.14.0",

@@ -19,7 +19,7 @@ commands
 
 	console.log("Starting server...");
 
-	events.emit("interact-registry:loaded");
+	events.emit("ntract-registry:loaded");
 
 	FileSystem.mkdir(path.join(cli.cwd, "data"));
 

@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-var cli = require('../plugins/interact-cli/index');
+var cli = require('../plugins/ntract-cli/index');

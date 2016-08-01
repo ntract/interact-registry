@@ -1,0 +1,2 @@
+#!/bin/bash
+node `dirname $0`/plugins/ntract-cli/index.js "$@"
