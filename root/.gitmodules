@@ -1,0 +1,47 @@
+[submodule "plugins/interact-cli"]
+    path = plugins/interact-cli
+    url = https://github.com/ntract/interact-cli.git
+
+[submodule "plugins/interact-cli-plugins"]
+    path = plugins/interact-cli-plugins
+    url = https://github.com/ntract/interact-cli-plugins.git
+
+[submodule "plugins/interact-cli-plugins-build"]
+    path = plugins/interact-cli-plugins-build
+    url = https://github.com/ntract/interact-cli-plugins-build.git
+
+[submodule "plugins/interact-cli-plugins-build-collate"]
+    path = plugins/interact-cli-plugins-build-collate
+    url = https://github.com/ntract/interact-cli-plugins-build-collate.git
+
+[submodule "plugins/interact-cli-plugins-build-copy"]
+    path = plugins/interact-cli-plugins-build-copy
+    url = https://github.com/ntract/interact-cli-plugins-build-copy.git
+
+[submodule "plugins/interact-cli-plugins-build-handlebars"]
+    path = plugins/interact-cli-plugins-build-handlebars
+    url = https://github.com/ntract/interact-cli-plugins-build-handlebars.git
+
+[submodule "plugins/interact-cli-plugins-build-less"]
+    path = plugins/interact-cli-plugins-build-less
+    url = https://github.com/ntract/interact-cli-plugins-build-less.git
+
+[submodule "plugins/interact-cli-plugins-build-requirejs"]
+    path = plugins/interact-cli-plugins-build-requirejs
+    url = https://github.com/ntract/interact-cli-plugins-build-requirejs.git
+
+[submodule "plugins/interact-cli-plugins-compile"]
+    path = plugins/interact-cli-plugins-compile
+    url = https://github.com/ntract/interact-cli-plugins-compile.git
+
+[submodule "plugins/interact-registry"]
+    path = plugins/interact-registry
+    url = https://github.com/ntract/interact-registry.git
+
+[submodule "plugins/interact-registry-bin"]
+    path = plugins/interact-registry-bin
+    url = https://github.com/ntract/interact-registry-bin.git
+
+[submodule "plugins/interact-registry-frontend"]
+    path = plugins/interact-registry-frontend
+    url = https://github.com/ntract/interact-registry-frontend.git

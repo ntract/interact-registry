@@ -1,0 +1,17 @@
+{
+      "name": "interact-registry",
+      "dependencies": {
+            "interact-cli": "~0.0",
+            "interact-cli-plugins": "~0.0",
+            "interact-cli-plugins-build": "~0.0",
+            "interact-cli-plugins-build-collate": "~0.0",
+            "interact-cli-plugins-build-copy": "~0.0",
+            "interact-cli-plugins-build-handlebars": "~0.0",
+            "interact-cli-plugins-build-less": "~0.0",
+            "interact-cli-plugins-build-requirejs": "~0.0",
+            "interact-cli-plugins-compile": "~0.0",
+            "interact-registry": "~0.0",
+            "interact-registry-bin": "~0.0",
+            "interact-registry-frontend": "~0.0"
+      }
+}

@@ -1,11 +1,34 @@
 {
-    "name": "interact-registry",
-    "commonName": "Bower Registry",
-    "license": "GPL-3",
-    "maintainers": [
-        {
-            "name": "oliver.foster",
-            "email": "oliver.foster@kineo.com"
-        }
-    ]
+  "name": "interact-registry",
+  "commonName": "Bower Registry",
+  "version": "0.0.3",
+  "license": "GPL-3",
+  "interact-cli": {
+    "standalone": true
+  },
+  "maintainers": [
+    {
+      "name": "oliver.foster",
+      "email": "oliver.foster@kineo.com"
+    }
+  ],
+  "bin": {
+  	"interact-registry": "./bin/interact-registry"
+  },
+  "dependencies":{
+  	"express":"^4.14.0",
+  	"body-parser":"^1.15.0",
+  	"multer":"^1.1.0",
+  	"handlebars":"*",
+  	"less":"*",
+  	"requirejs":"*",
+  	"buildkit-globber":"*",
+  	"chalk":"*",
+  	"underscore":"*",
+  	"underscore-deep-extend":"*",
+  	"npm":"*",
+  	"semver":"*",
+  	"bower":"*",
+  	"inquirer":"*"
+  }
 }
