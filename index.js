@@ -1,6 +1,5 @@
-events.once("modules:loaded", function() {
-	if (cli.config.commands[0] === "help") return;
-
+commands
+.on([undefined], function(done) {
 
 	global.express = require('express');
 	var bodyParser = require('body-parser');
@@ -31,6 +30,6 @@ events.once("modules:loaded", function() {
 	  console.log('Node app is running on port', app.get('port'));
 	});
 
-});
+	done({stop:true});
 
-events.emit("command:handled");
+});
