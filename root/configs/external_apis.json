@@ -1,7 +1,6 @@
 [
 	{
 		"host": "github.com",
-		"checkBowerJSON": true,
 		"collaborators": {
 			"authentication": "token",
 			"url": "https://api.github.com/repos/{{owner}}/{{repo}}/collaborators"
@@ -9,7 +8,6 @@
 	},
 	{
 		"host": "gitlab",
-		"checkBowerJSON": false,
 		"collaborators": {
 			"authentication": "private-token",
 			"url": "https://{{host}}/v3/api/projects"
