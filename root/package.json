@@ -1,7 +1,7 @@
 {
     "name": "ntract-registry",
     "commonName": "Bower Registry",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "license": "GPL-3",
     "ntract-cli": {
         "standalone": true
@@ -14,6 +14,9 @@
     ],
     "bin": {
         "ntract-registry": "./bin/ntract-registry"
+    },
+    "scripts": {
+        "postinstall": "node plugins/ntract-cli/res/permissions.js"
     },
     "dependencies": {
         "express": "^4.14.0",
