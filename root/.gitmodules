@@ -2,14 +2,6 @@
     path = plugins/ntract-cli
     url = https://github.com/ntract/ntract-cli.git
 
-[submodule "plugins/ntract-cli-plugins"]
-    path = plugins/ntract-cli-plugins
-    url = https://github.com/ntract/ntract-cli-plugins.git
-
-[submodule "plugins/ntract-cli-plugins-build"]
-    path = plugins/ntract-cli-plugins-build
-    url = https://github.com/ntract/ntract-cli-plugins-build.git
-
 [submodule "plugins/ntract-cli-plugins-build-collate"]
     path = plugins/ntract-cli-plugins-build-collate
     url = https://github.com/ntract/ntract-cli-plugins-build-collate.git
@@ -30,17 +22,9 @@
     path = plugins/ntract-cli-plugins-build-requirejs
     url = https://github.com/ntract/ntract-cli-plugins-build-requirejs.git
 
-[submodule "plugins/ntract-cli-plugins-compile"]
-    path = plugins/ntract-cli-plugins-compile
-    url = https://github.com/ntract/ntract-cli-plugins-compile.git
-
 [submodule "plugins/ntract-registry"]
     path = plugins/ntract-registry
     url = https://github.com/ntract/ntract-registry.git
-
-[submodule "plugins/ntract-registry-bin"]
-    path = plugins/ntract-registry-bin
-    url = https://github.com/ntract/ntract-registry-bin.git
 
 [submodule "plugins/ntract-registry-frontend"]
     path = plugins/ntract-registry-frontend

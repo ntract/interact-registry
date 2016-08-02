@@ -1,7 +1,7 @@
 {
     "name": "ntract-registry",
     "commonName": "Bower Registry",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "license": "GPL-3",
     "ntract-cli": {
         "standalone": true
