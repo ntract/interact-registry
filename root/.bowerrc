@@ -1,6 +1,6 @@
 {
   "directory": "plugins",
-  "timeout": 120000,
+  "timeout": 2000,
   "registry": {
     "search": [
     	"http://localhost:5000"
