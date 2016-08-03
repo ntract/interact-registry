@@ -21,7 +21,7 @@ commands
 
 	events.emit("ntract-registry:loaded");
 
-	FileSystem.mkdir(path.join(cli.cwd, "data"));
+	FileSystem.mkdir(path.join(osenv.home(), ".ntract"));
 
 	require("./lib/bower");
 
