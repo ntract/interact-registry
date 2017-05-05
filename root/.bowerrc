@@ -3,8 +3,8 @@
   "timeout": 2000,
   "registry": {
     "search": [
-    	"http://localhost:5000"
+    	"https://interact-bower-registry.herokuapp.com/"
     ],
-    "register": "http://localhost:5000"
+    "register": "https://interact-bower-registry.herokuapp.com/"
   }
 }
