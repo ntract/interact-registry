@@ -2,11 +2,11 @@
       "name": "ntract-registry",
       "dependencies": {
             "ntract-cli": "~0.0",
-            "ntract-cli-plugins-build-collate": "~0.0",
-            "ntract-cli-plugins-build-copy": "~0.0",
-            "ntract-cli-plugins-build-handlebars": "~0.0",
-            "ntract-cli-plugins-build-less": "~0.0",
-            "ntract-cli-plugins-build-requirejs": "~0.0",
+            "ntract-cli-build-collate": "~0.0",
+            "ntract-cli-build-copy": "~0.0",
+            "ntract-cli-build-handlebars": "~0.0",
+            "ntract-cli-build-less": "~0.0",
+            "ntract-cli-build-requirejs": "~0.0",
             "ntract-registry": "~0.0",
             "ntract-registry-frontend": "~0.0"
       }
