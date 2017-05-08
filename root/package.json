@@ -1,7 +1,7 @@
 {
     "name": "ntract-registry",
     "commonName": "Bower Registry",
-    "version": "0.0.11",
+    "version": "0.0.16",
     "license": "GPL-3",
     "ntract-cli": {
         "standalone": true
@@ -34,6 +34,10 @@
         "semver": "*",
         "bower": "*",
         "inquirer": "*",
-        "osenv": "*"
+        "osenv": "*",
+        "pg": "~6.1.0",
+        "pg-hstore": "^2.3.2",
+        "request": "~2.79.0",
+        "sequelize": "~3.27.0"
     }
 }
