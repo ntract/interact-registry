@@ -2,25 +2,25 @@
     path = plugins/ntract-cli
     url = https://github.com/ntract/ntract-cli.git
 
-[submodule "plugins/ntract-cli-plugins-build-collate"]
-    path = plugins/ntract-cli-plugins-build-collate
-    url = https://github.com/ntract/ntract-cli-plugins-build-collate.git
+[submodule "plugins/ntract-cli-build-collate"]
+    path = plugins/ntract-cli-build-collate
+    url = https://github.com/ntract/ntract-cli-build-collate.git
 
-[submodule "plugins/ntract-cli-plugins-build-copy"]
-    path = plugins/ntract-cli-plugins-build-copy
-    url = https://github.com/ntract/ntract-cli-plugins-build-copy.git
+[submodule "plugins/ntract-cli-build-copy"]
+    path = plugins/ntract-cli-build-copy
+    url = https://github.com/ntract/ntract-cli-build-copy.git
 
-[submodule "plugins/ntract-cli-plugins-build-handlebars"]
-    path = plugins/ntract-cli-plugins-build-handlebars
-    url = https://github.com/ntract/ntract-cli-plugins-build-handlebars.git
+[submodule "plugins/ntract-cli-build-handlebars"]
+    path = plugins/ntract-cli-build-handlebars
+    url = https://github.com/ntract/ntract-cli-build-handlebars.git
 
-[submodule "plugins/ntract-cli-plugins-build-less"]
-    path = plugins/ntract-cli-plugins-build-less
-    url = https://github.com/ntract/ntract-cli-plugins-build-less.git
+[submodule "plugins/ntract-cli-build-less"]
+    path = plugins/ntract-cli-build-less
+    url = https://github.com/ntract/ntract-cli-build-less.git
 
-[submodule "plugins/ntract-cli-plugins-build-requirejs"]
-    path = plugins/ntract-cli-plugins-build-requirejs
-    url = https://github.com/ntract/ntract-cli-plugins-build-requirejs.git
+[submodule "plugins/ntract-cli-build-requirejs"]
+    path = plugins/ntract-cli-build-requirejs
+    url = https://github.com/ntract/ntract-cli-build-requirejs.git
 
 [submodule "plugins/ntract-registry"]
     path = plugins/ntract-registry
