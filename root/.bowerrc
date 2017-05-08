@@ -3,8 +3,8 @@
   "timeout": 2000,
   "registry": {
     "search": [
-    	"https://interact-bower-registry.herokuapp.com/"
+    	"https://ntract-bower-registry.herokuapp.com/"
     ],
-    "register": "https://interact-bower-registry.herokuapp.com/"
+    "register": "https://ntract-bower-registry.herokuapp.com/"
   }
 }
